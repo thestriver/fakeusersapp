@@ -1,5 +1,5 @@
-# fakeusersapp
-
+# Fake Users App
+A simple Vue app calling a set of fake users from the API
 ## Project setup
 ```
 npm install
